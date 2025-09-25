@@ -20,7 +20,7 @@ create a banner ad on google admob and copy the app ID
 replace it in app/src/main/res/value/strings.xml as shown
 
     <string name="app_name">ZOLATON</string>
-    <string name="admob_banner_ad_unit_id">ca-app-pub-1030736842911962/5790770387</string>
+    <string name="admob_banner_ad_unit_id">ca-app-pub-2149467304464794/5790770387</string>
 
 you can also change the app name as shown
 #to change other stuff, contact us to customize or visit the android development documentation here
