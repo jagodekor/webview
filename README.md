@@ -12,7 +12,7 @@ create an app on google admob and copy the app ID
 replace it in app/src/main/AndroidManifest.xml  as shown.
       <meta-data
                 android:name="com.google.android.gms.ads.APPLICATION_ID"
-                android:value="ca-app-pub-1030736842911962~1731848714" />
+                android:value="ca-app-pub-2149467304464794~1731848714" />
 
 # change App Admob Banner ID
 
